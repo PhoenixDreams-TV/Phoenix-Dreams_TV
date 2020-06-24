@@ -1,8 +1,5 @@
-# Phoenix-Dreams_TV
-#EXTM3U
-#EXTINF:0 tvg-logo="https://www.phoenixdreams.company/--
 
-#EXTINF:0 tvg-logo="https://www.facebook.com/pages/category/Consulting-Agency/Phoenix-Dreams-Company-SA-de-CV-998363483566034/"
+#EXTM3U
 
 *** NACIONALES ***
 #EXTINF:-1, AZTECA UNO HD
