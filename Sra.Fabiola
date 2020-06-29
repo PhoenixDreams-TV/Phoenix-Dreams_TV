@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:0 tvg-logo="https://www.phoenixdreams.company/--
-
-#EXTINF:0 tvg-logo="https://www.facebook.com/pages/category/Consulting-Agency/Phoenix-Dreams-Company-SA-de-CV-998363483566034/"
-
 *** NACIONALES ***
 #EXTINF:-1, AZTECA UNO HD
 http://roedor.xyz/regiomx20x/tp.php?c=7&p=3&k=srregio&f=.m3u8
@@ -73,11 +69,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=2606&p=3&k=srregio&f=.m3u8
 http://roedor.xyz/regiomx20x/tp.php?c=2703&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, MULTIMEDIOS HD
 http://roedor.xyz/regiomx20x/tp.php?c=2882&p=3&k=srregio&f=.m3u8  
-
-
-
-
-
 
 *** INFANTILES ***
 #EXTINF:-1, TOONCAST
@@ -274,7 +265,7 @@ http://roedor.xyz/regiomx20x/tp.php?c=2587&p=3&k=srregio&f=.m3u8
 *** CULTURALES ***
 #EXTINF:-1, DISCOVERY ID
 http://roedor.xyz/regiomx20x/tp.php?c=68&p=3&k=srregio&f=.m3u8  
- #EXTINF:-1, GARAGE TV 
+#EXTINF:-1, GARAGE TV 
 http://roedor.xyz/regiomx20x/tp.php?c=75&p=3&k=srregio&f=.m3u8  
 #EXTINF:-1, DISCOVERY CHANNEL
 http://roedor.xyz/regiomx20x/tp.php?c=86&p=3&k=srregio&f=.m3u8  
@@ -332,7 +323,6 @@ http://roedor.xyz/regiomx20x/tp.php?c=221&p=3&k=srregio&f=.m3u8
 http://roedor.xyz/regiomx20x/tp.php?c=223&p=3&k=srregio&f=.m3u8 
 #EXTINF:-1, VH1 HD
 http://roedor.xyz/regiomx20x/tp.php?c=334&p=3&k=srregio&f=.m3u8  
-
 
 *** NOTICIAS ***
 #EXTINF:-1, FOROTV HD
